@@ -1,0 +1,16 @@
+{
+  "judul": "Penyebab ikan hias stres atau mati mendadak di akuarium",
+  "batas": "Aturan dari 2 sumber akademik dan hanya mencakup amonia, nitrit, pH/suhu, dan frekuensi ganti air. Penyebab lain (penyakit, kepadatan ikan, ikan agresif, racun/kimia, listrik mati) tidak dicakup. Hasilnya saran awal, bukan keputusan akhir; untuk kematian massal, konsultasikan dengan penyuluh perikanan atau dokter hewan ikan.",
+  "sumber": {
+    "S1": "Wigati, L., Susilowati, T., Amalia, R. (2023). Pengaruh Persentase Pergantian Air terhadap Pertumbuhan dan Kelulushidupan Ikan Rainbow (Melanotaenia boesmani). Jurnal Sains Akuakultur Tropis 7(1): 39-44, Universitas Diponegoro. https://ejournal2.undip.ac.id/index.php/sat/article/download/12638/pdf (diakses 12 Nov 2026)",
+    "S2": "Wahyudi, Setiyono, A., Jayanthi, O.W. (2014). Studi Kualitas dan Potensi Pemanfaatan Airtanah Dangkal di Pesisir Surabaya Timur. Eksplorium 35(1): 43-56, BATAN. https://jurnal.batan.go.id/index.php/eksplorium/article/download/1837/1735 (diakses 12 Nov 2026). Bagian toksisitas amonia dan nitrit pada ikan di artikel ini merujuk ke OATA (2008)."
+  },
+  "aturan": [
+    {"id": "R1", "jika": ["kotoran dan sisa pakan menumpuk di dasar akuarium"], "maka": "amonia tinggi", "sumber": "S2"},
+    {"id": "R2", "jika": ["hasil tes amonia (NH3) di atas 0,2 mg/L"], "maka": "amonia tinggi", "sumber": "S2"},
+    {"id": "R3", "jika": ["amonia tinggi"], "maka": "keracunan amonia (iritasi dan kerusakan insang)", "sumber": "S1, S2"},
+    {"id": "R4", "jika": ["hasil tes nitrit di atas 0,06 mg/L"], "maka": "keracunan nitrit (darah sulit mengangkut oksigen)", "sumber": "S2"},
+    {"id": "R5", "jika": ["pH atau suhu air di luar kisaran yang cocok untuk jenis ikan"], "maka": "stres karena lingkungan tidak sesuai", "sumber": "S1"},
+    {"id": "R6", "jika": ["amonia tinggi", "air jarang diganti dan dasar akuarium jarang disipon"], "maka": "risiko kematian tinggi", "sumber": "S1"}
+  ]
+}
