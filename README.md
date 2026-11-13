@@ -1,4 +1,4 @@
-# Tugas 5: Sistem Pakar Sederhana, Penyebab Ikan Hias Stres atau Mati Mendadak di Akuarium
+# Tugas Materi 5: Sistem Pakar Sederhana, Penyebab Ikan Hias Stres atau Mati Mendadak di Akuarium
 
 - Nama : **Wirabuana Ramadhana Juahari**
 - NIM  : **F1D02510030**
