@@ -54,13 +54,17 @@ Urutan pertanyaan: (1) kotoran/sisa pakan menumpuk, (2) tes amonia > 0,2, (3) te
 | 4 | `t y t t y` (tes amonia tinggi, jarang ganti air) | keracunan amonia; risiko kematian tinggi |
 
 
-Kasus 1 :
+Contoh Kasus 1 :
+
 ![Kasus 1](Kasus1.png)
-Kasus 2 :
+Contoh Kasus 2 :
+
 ![Kasus 2](Kasus2.png)
-Kasus 3 :
+Contoh Kasus 3 :
+
 ![Kasus 3](Kasus3.png)
-Kasus 4 :
+Contoh Kasus 4 :
+
 ![Kasus 4](Kasus4.png)
 
 ## Batas keberlakuan
