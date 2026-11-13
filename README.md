@@ -74,7 +74,7 @@ Alasan:
 ![Kasus 1](Kasus1.png)
 ![Kasus 2](Kasus2.png)
 ![Kasus 3](Kasus3.png)
-![Kasus 4](kasus3.png)
+![Kasus 4](Kasus4.png)
 
 ## Batas keberlakuan
 Pengetahuan berasal dari dua publikasi akademik, bukan pengalaman penghobi ikan. Aturan hanya mencakup amonia, nitrit, pH/suhu, dan frekuensi ganti air. Penyebab lain seperti penyakit, kepadatan ikan, ikan agresif, racun atau bahan kimia, dan listrik mati tidak dicakup. Kisaran pH dan suhu yang cocok berbeda tiap spesies; S1 meneliti ikan rainbow, sehingga pengguna harus mencocokkan dengan jenis ikannya. Hasilnya saran awal, bukan keputusan akhir; untuk kematian massal, konsultasikan dengan penyuluh perikanan atau dokter hewan ikan. Catatan ini juga ditampilkan oleh program.
