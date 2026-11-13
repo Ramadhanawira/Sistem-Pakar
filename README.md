@@ -1,7 +1,7 @@
 # Tugas 5: Sistem Pakar Sederhana, Penyebab Ikan Hias Stres atau Mati Mendadak di Akuarium
 
-- Nama : **WIRABUANA RAMADHANA JAUHARI**
-- NIM  : **F1D02510030**
+- Nama: **Wirabuana Ramadhana Juahari**
+- NIM: **F1D02510030**
 
 ## Topik dan cara menjalankan
 Menentukan kemungkinan penyebab ikan hias stres atau mati mendadak di akuarium, berdasarkan kondisi air dan perawatan.
@@ -71,5 +71,12 @@ Alasan:
     amonia tinggi <- R1 (kotoran dan sisa pakan menumpuk di dasar akuarium) [S2]
 ```
 
+![Kasus 1](screenshot/kasus1.png)
+![Kasus 2](screenshot/kasus2.png)
+![Kasus 3](screenshot/kasus3.png)
+
 ## Batas keberlakuan
 Pengetahuan berasal dari dua publikasi akademik, bukan pengalaman penghobi ikan. Aturan hanya mencakup amonia, nitrit, pH/suhu, dan frekuensi ganti air. Penyebab lain seperti penyakit, kepadatan ikan, ikan agresif, racun atau bahan kimia, dan listrik mati tidak dicakup. Kisaran pH dan suhu yang cocok berbeda tiap spesies; S1 meneliti ikan rainbow, sehingga pengguna harus mencocokkan dengan jenis ikannya. Hasilnya saran awal, bukan keputusan akhir; untuk kematian massal, konsultasikan dengan penyuluh perikanan atau dokter hewan ikan. Catatan ini juga ditampilkan oleh program.
+
+## Penggunaan alat bantu AI
+**(EDIT SESUAI KENYATAAN.)** Contoh: "Saya memakai Claude untuk mencari sumber dan menyusun draf aturan serta kode. Saya sudah memeriksa sumbernya dan dapat menjelaskan setiap aturan dan alur kodenya."
