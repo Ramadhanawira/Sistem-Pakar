@@ -1,14 +1,14 @@
 # Tugas 5: Sistem Pakar Sederhana, Penyebab Ikan Hias Stres atau Mati Mendadak di Akuarium
 
-- Nama: **Wirabuana Ramadhana Juahari**
-- NIM: **F1D02510030**
+- Nama : **Wirabuana Ramadhana Juahari**
+- NIM  : **F1D02510030**
 
 ## Topik dan cara menjalankan
 Menentukan kemungkinan penyebab ikan hias stres atau mati mendadak di akuarium, berdasarkan kondisi air dan perawatan.
 Bahasa: Python 3 (tanpa library tambahan, mesin inferensi ditulis sendiri).
 
 ```bash
-python sistem_pakar.py
+sistem_pakar.py
 ```
 Jawab pertanyaan dengan `y` atau `t`. File aturan: `kb.json` (harus satu folder dengan program).
 
