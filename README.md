@@ -71,8 +71,8 @@ Alasan:
     amonia tinggi <- R1 (kotoran dan sisa pakan menumpuk di dasar akuarium) [S2]
 ```
 
-![Kasus 1](screenshot/kasus1.png)
-![Kasus 2](screenshot/kasus2.png)
+![Kasus 1](Kasus1.png)
+![Kasus 2]()
 ![Kasus 3](screenshot/kasus3.png)
 
 ## Batas keberlakuan
