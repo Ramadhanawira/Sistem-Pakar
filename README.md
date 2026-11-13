@@ -73,7 +73,7 @@ Alasan:
 
 ![Kasus 1](Kasus1.png)
 ![Kasus 2](Kasus2.png)
-![Kasus 3](kasus3.png)
+![Kasus 3](Kasus3.png)
 ![Kasus 4](kasus3.png)
 
 ## Batas keberlakuan
