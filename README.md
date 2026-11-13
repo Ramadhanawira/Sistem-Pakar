@@ -53,31 +53,18 @@ Urutan pertanyaan: (1) kotoran/sisa pakan menumpuk, (2) tes amonia > 0,2, (3) te
 | 3 | `t t y y t` (nitrit tinggi, pH/suhu tidak cocok) | keracunan nitrit; stres karena lingkungan tidak sesuai |
 | 4 | `t y t t y` (tes amonia tinggi, jarang ganti air) | keracunan amonia; risiko kematian tinggi |
 
-Keluaran asli kasus 1:
 
-```
-Fakta awal: kotoran dan sisa pakan menumpuk di dasar akuarium, air jarang diganti dan dasar akuarium jarang disipon
-
-R1: kotoran dan sisa pakan menumpuk di dasar akuarium -> amonia tinggi
-R3: amonia tinggi -> keracunan amonia (iritasi dan kerusakan insang)
-R6: amonia tinggi + air jarang diganti dan dasar akuarium jarang disipon -> risiko kematian tinggi
-Tidak ada aturan baru, berhenti.
-
-Kesimpulan: keracunan amonia (iritasi dan kerusakan insang); risiko kematian tinggi
-Alasan:
-  keracunan amonia (iritasi dan kerusakan insang) <- R3 (amonia tinggi) [S1, S2]
-    amonia tinggi <- R1 (kotoran dan sisa pakan menumpuk di dasar akuarium) [S2]
-  risiko kematian tinggi <- R6 (amonia tinggi, air jarang diganti dan dasar akuarium jarang disipon) [S1]
-    amonia tinggi <- R1 (kotoran dan sisa pakan menumpuk di dasar akuarium) [S2]
-```
-
+Kasus 1 :
 ![Kasus 1](Kasus1.png)
+Kasus 2 :
 ![Kasus 2](Kasus2.png)
+Kasus 3 :
 ![Kasus 3](Kasus3.png)
+Kasus 4 :
 ![Kasus 4](Kasus4.png)
 
 ## Batas keberlakuan
 Pengetahuan berasal dari dua publikasi akademik, bukan pengalaman penghobi ikan. Aturan hanya mencakup amonia, nitrit, pH/suhu, dan frekuensi ganti air. Penyebab lain seperti penyakit, kepadatan ikan, ikan agresif, racun atau bahan kimia, dan listrik mati tidak dicakup. Kisaran pH dan suhu yang cocok berbeda tiap spesies; S1 meneliti ikan rainbow, sehingga pengguna harus mencocokkan dengan jenis ikannya. Hasilnya saran awal, bukan keputusan akhir; untuk kematian massal, konsultasikan dengan penyuluh perikanan atau dokter hewan ikan. Catatan ini juga ditampilkan oleh program.
 
 ## Penggunaan alat bantu AI
-**(EDIT SESUAI KENYATAAN.)** Contoh: "Saya memakai Claude untuk mencari sumber dan menyusun draf aturan serta kode. Saya sudah memeriksa sumbernya dan dapat menjelaskan setiap aturan dan alur kodenya."
+**(Saya memakai AI Claude untuk mencari sumber dan menyusun draf aturan serta kode dan saya sudah memeriksa sumbernya.)**
